@@ -1,0 +1,8 @@
+﻿id,type,prompt_en,prompt_zh,answer_en,answer_zh,note
+D01-Q01,问答,What do you do?,你做什么工作？,I work in sales. I help business customers choose BOOX devices.,我做销售，帮助企业客户选择 BOOX 设备。,原训练基础版；岗位按真实情况调整
+D01-Q02,问答,What products do you sell?,你销售什么产品？,We sell BOOX ePaper tablets and E Ink monitors. What products are you interested in?,我们销售墨水屏平板和墨水屏显示器。您对哪类产品感兴趣？,原训练基础版
+D01-Q03,问答,Could you tell me about your role?,能介绍一下您的职责吗？,I work in global B2B business development at BOOX. I build partnerships with distributors and work with business customers.,我从事全球 B2B 业务拓展，与经销商建立合作并对接企业客户。,基于实际转写整理；职责需本人确认
+D01-C01,词块,build partnerships with ...,与……建立合作,I build partnerships with distributors.,我与经销商建立合作。,根据转写整理
+D01-C02,词块,share ... with ...,与……分享……,I can share the specifications with you.,我可以与您分享规格资料。,根据转写整理
+D01-C03,词块,manage information,管理信息,They need to manage information.,他们需要管理信息。,information 不可数；不是产品功能承诺
+D01-C04,纠错,can help / can helps?,哪一个正确？,can help,情态动词 can 后接动词原形 help。,根据转写整理
